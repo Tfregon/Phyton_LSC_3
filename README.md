@@ -1,0 +1,2 @@
+Python Development
+This repository features resources and exercises dedicated to Python programming. It covers essential topics such as data types, control structures, functions, object-oriented programming, data structures, text manipulation, and file access. The repository includes practical projects that demonstrate various applications of Python, including data analysis, and automation tasks. This collection serves as a valuable resource for enhancing Python skills and building versatile applications.
